@@ -1,0 +1,261 @@
+﻿vendor_id,restaurant_name,signup_date,city,address,phone_number,bank_account,cac_verified,tin_verified,account_type,duplicate_image_score,refund_rate,delivery_failure_rate,risk_score,risk_category,fraud_label
+1,Shade's delight,2025-12-19,P.H.,"Block B, Industrial Estate, Ogba, Lagos",+234 701 999 0000,0098765432_Zenith,FALSE,FALSE,Personal,83,27%,18%,90,Critical,Fraud Ring
+2,LightSalmon Boli Express,2026-01-31,Lagos,"Block B, Industrial Estate, Ogba, Lagos",+234 701 999 0000,0098765432_Zenith,FALSE,FALSE,Personal,75,23%,21%,90,Critical,Fraud Ring
+3,Ivory Jollof Express,2026-01-11,Lagos,"Block B, Industrial Estate, Ogba, Lagos",+234 701 999 0000,0098765432_Zenith,FALSE,FALSE,Personal,89,38%,35%,90,Critical,Fraud Ring
+4,DarkKhaki Yam Chow,2026-03-30,Lagos,"Block B, Industrial Estate, Ogba, Lagos",+234 701 999 0000,0098765432_Zenith,FALSE,FALSE,Personal,81,49%,23%,90,Critical,Fraud Ring
+5,DarkCyan Yam Chow,2026-04-08,Ibadan,"Block B, Industrial Estate, Ogba, Lagos",+234 701 999 0000,0098765432_Zenith,FALSE,FALSE,Personal,83,44%,33%,90,Critical,Fraud Ring
+6,Peru Suya Chow,2025-12-21,P.H.,"781 Miller Hill, Barbaraland, AZ 87174",8135389083,GB69OSIZ02654235116155,TRUE,TRUE,Corporate,19,5%,2%,0,Low,Legit
+7,Khaki Jollof Chow,09/02/2026,Lagos,"4139 Lewis Parks Suite 724, East Julie, ND 34939",731-564-7525,GB47VIWV19283276483503,TRUE,TRUE,Corporate,7,4%,2%,0,Low,Legit
+8,Pink Jollof Chow,2026-04-07,Abuja,"Unit 2814 Box 8932, DPO AA 21675",(353)828-7101x2269,GB21MTOQ48018451462704,TRUE,TRUE,Corporate,6,4%,3%,0,Low,Legit
+9,Yellow Jollof Kitchen,2026-03-27,Lagos,"465 Lam Mission, East Jeffreymouth, AK 77611",2955701543,GB45SCCX71822782489638,TRUE,TRUE,Corporate,14,3%,4%,0,Low,Legit
+10,Khaki Yam Hub,2026-04-08,Lagos,"106 Mcbride Coves, East James, NV 18874",501.603.1051,GB97VPGR29973763116566,TRUE,TRUE,Corporate,1,4%,2%,0,Low,Legit
+11,Peru Yam Kitchen,2026-01-19,P.H.,"805 Brendan Neck, North Susan, CO 24857",473-817-8108x013,GB92PPGM02606474687234,TRUE,TRUE,Corporate,15,3%,4%,0,Low,Legit
+12,CornflowerBlue Jollof Kitchen,2026-04-09,P.H.,"83842 Ibarra Gardens, Justinmouth, MP 71701",336-819-3990,GB11VSSQ54353462475107,TRUE,TRUE,Corporate,17,3%,3%,0,Low,Legit
+13,LimeGreen Yam Kitchen,2026-04-12,Lagos,"011 Amy Village Suite 982, Andersonport, MN 05730",+1-680-584-1241x1824,GB05WKGV48740164005242,TRUE,TRUE,Corporate,16,3%,3%,0,Low,Legit
+14,MintCream Jollof Express,24/01/2026,Ibadan,"5414 May Locks, Sheilaville, FM 34738",+1-731-858-6923x22602,GB18ZVXZ34216073375433,TRUE,TRUE,Corporate,2,3%,3%,0,Low,Legit
+15,Fuchsia Boli Hub,2026-04-06,P.H.,"236 Byrd Extensions Suite 680, Justinchester, WY 76520",501-696-5569x816,GB94BWNA88356159514846,TRUE,TRUE,Corporate,3,4%,3%,0,Low,Legit
+16,MediumBlue Suya Chow,2026-03-15,Abuja,"63287 Angela Vista, South Dennismouth, TN 70117",573.687.2148x951,GB02HZGE00379176936763,TRUE,TRUE,Corporate,5,3%,4%,0,Low,Legit
+17,MediumAquaMarine Boli Hub,2026-03-10,P.H.,"760 Marissa Loaf Apt. 967, West Kennethfurt, PR 55422",+1-986-587-2774x348,GB57IOCW43455812236231,TRUE,TRUE,Corporate,9,4%,3%,0,Low,Legit
+18,WhiteSmoke Jollof Hub,2026-03-31,Ibadan,"6417 Kaitlyn Center Suite 310, East Jamestown, RI 20474",+1-937-434-6706x562,GB82TRAM99016272046537,TRUE,TRUE,Corporate,10,3%,1%,0,Low,Legit
+19,LawnGreen Suya Kitchen,2026-01-08,Ibadan,"506 Garcia Lake, Zimmermanchester, HI 96681",319.237.4529x9124,GB06JSVM63193149190586,TRUE,TRUE,Corporate,2,1%,2%,0,Low,Legit
+20,Turquoise Jollof Express,2026-02-05,Ibadan,"36783 Brewer Overpass, Mcguireland, LA 29546",+1-587-976-9453x147,GB63STVM50752735454948,TRUE,TRUE,Corporate,5,2%,4%,0,Low,Legit
+21,PaleGreen Jollof Chow,31/01/2026,Abuja,"40824 Terri Plaza Suite 271, New Justinfort, NV 45158",695-678-8568x5574,GB15HDXG51823374989413,TRUE,TRUE,Corporate,20,2%,4%,0,Low,Legit
+22,GhostWhite Jollof Hub,2025-12-24,Abuja,"34123 Andrea Estate, South Shannonfort, LA 04779",671-316-7190x229,GB08HDRY69993867749649,TRUE,TRUE,Corporate,0,3%,2%,0,Low,Legit
+23,Lavender Suya Kitchen,2026-02-08,Lagos,"5940 Jeremy Spring, Port Emilyview, OK 05774",001-447-613-4936x183,GB08ECBF49947174648877,TRUE,TRUE,Corporate,1,4%,1%,0,Low,Legit
+24,ForestGreen Jollof Kitchen,2026-03-16,P.H.,"597 Wolf Ford, Andreaport, NV 92022",474.729.6717x56551,GB96NWPJ68071545168087,TRUE,TRUE,Corporate,18,3%,2%,0,Low,Legit
+25,SlateBlue Suya Hub,2026-01-07,P.H.,"PSC 8214, Box 6584, APO AE 37573",3935248086,GB55DODU27484677378263,TRUE,TRUE,Corporate,13,2%,2%,0,Low,Legit
+26,Lime Suya Hub,2026-04-07,Abuja,"Unit 5171 Box 8702, DPO AA 86324",001-872-978-7558,GB79KGWH96360576627028,TRUE,TRUE,Corporate,10,4%,1%,0,Low,Legit
+27,DeepSkyBlue Egusi Kitchen,2025-12-29,Abuja,"692 Gregory Ridge, Harveybury, NM 76936",345.596.1586x5780,GB09UVJH16117240050455,TRUE,TRUE,Corporate,5,2%,2%,0,Low,Legit
+28,DarkTurquoise Suya Hub,29/01/2026,P.H.,"743 Robinson Field, Ericaberg, SC 13236",647.840.7482x175,GB78WIOJ36713695944064,TRUE,TRUE,Corporate,17,4%,4%,0,Low,Legit
+29,BlueViolet Egusi Express,2026-02-12,Lagos,"4965 Emily Mountains Apt. 985, Lake Bryan, GU 61353",709.652.1456x232,GB98FIPZ45171236851604,TRUE,TRUE,Corporate,12,5%,1%,0,Low,Legit
+30,LimeGreen Egusi Chow,2026-03-04,Abuja,"1585 Raymond Field, Port Madisonland, TN 28302",420-804-7113,GB86OLVX86926179640537,TRUE,TRUE,Corporate,17,4%,2%,0,Low,Legit
+31,Beige Suya Hub,2025-12-24,P.H.,"177 Palmer Coves, Gordonton, VA 86864",232-693-1839x33529,GB14EERI21020539502402,TRUE,TRUE,Corporate,10,1%,3%,0,Low,Legit
+32,Turquoise Suya Hub,2026-02-11,Lagos,"7365 Ross Stream, West Ronaldview, MN 20507",400.376.6177x115,GB34EITU98569847896118,TRUE,TRUE,Corporate,2,3%,3%,0,Low,Legit
+33,Sienna Boli Kitchen,2025-12-28,Ibadan,"49368 Chelsea Shoals Suite 024, Sandrastad, AL 24278",711-361-5280,GB16NLVY60494519832731,TRUE,TRUE,Corporate,19,1%,1%,0,Low,Legit
+34,DarkTurquoise Yam Chow,2026-04-03,Lagos,"6149 Rose Inlet, East Randallton, AL 27295",+1-661-720-1836x67525,GB35YSTC02290147679764,TRUE,TRUE,Corporate,10,2%,2%,0,Low,Legit
+35,LimeGreen Yam Hub,25/01/2026,Lagos,"516 John Radial Suite 816, Juliebury, MA 22538",001-724-345-1076x22683,GB45MXBN07159696641605,TRUE,TRUE,Corporate,14,3%,3%,0,Low,Legit
+36,Crimson Jollof Chow,2026-03-24,Lagos,"9058 Lance Mission Apt. 054, Lake Michelleland, RI 78368",+1-418-483-5523x1243,GB88YYUC27799799552717,TRUE,TRUE,Corporate,11,5%,4%,0,Low,Legit
+37,Tan Egusi Chow,2026-02-27,Ibadan,"905 Mark Point Suite 449, West Christopher, TN 19038",298.907.9359x782,GB14DZKW18203778892554,TRUE,TRUE,Corporate,20,3%,3%,0,Low,Legit
+38,MediumVioletRed Jollof Chow,2026-02-13,Lagos,"622 Marie Trail, Lake Samuel, MT 48250",+1-762-291-4865x2816,GB27LJFG57332214188805,TRUE,TRUE,Corporate,3,4%,1%,0,Low,Legit
+39,LavenderBlush Yam Kitchen,2026-03-11,P.H.,"7826 Stacey Forges, Wilkersontown, MT 07481",+1-947-638-3473x597,GB27YMQQ62392407581814,TRUE,TRUE,Corporate,20,4%,3%,0,Low,Legit
+40,Orchid Egusi Chow,2026-03-22,Lagos,"1036 Brown Villages, Carlsontown, SC 68052",(236)615-3051x522,GB48PWEY77901043289861,TRUE,TRUE,Corporate,0,2%,1%,0,Low,Legit
+41,LawnGreen Boli Express,2026-01-11,Ibadan,"772 Bryan Trail, Johnsonborough, AZ 26645",260-895-3962x1851,GB63PBUM54051531952058,TRUE,TRUE,Corporate,0,1%,4%,0,Low,Legit
+42,BlueViolet Yam Kitchen,14/02/2026,Abuja,"15447 Jackson Mills Suite 705, Hillton, CA 88474",386-787-4034x5054,GB03NMXO65277584161692,TRUE,TRUE,Corporate,4,1%,2%,0,Low,Legit
+43,PaleGreen Jollof Hub,2026-02-23,Abuja,"4739 Benson Overpass, North Derek, CA 59751",220.429.7021x35569,GB02VOLL71928565431027,TRUE,TRUE,Corporate,17,5%,2%,0,Low,Legit
+44,ForestGreen Jollof Kitchen,2026-03-11,Abuja,"669 David Island Apt. 778, Davidside, SC 77543",455-718-8442,GB15QHDG23705895782911,TRUE,TRUE,Corporate,0,2%,4%,0,Low,Legit
+45,Gainsboro Jollof Hub,2026-01-09,Abuja,"10943 Montgomery Burgs, Smallside, LA 84637",(380)618-2422x53584,GB77GURI24981829922995,TRUE,TRUE,Corporate,1,4%,2%,0,Low,Legit
+46,LimeGreen Jollof Kitchen,2026-03-18,Lagos,"04696 Sydney Estate, Sarahmouth, ID 21386",964.971.0276,GB92GKTE55562588153714,TRUE,TRUE,Corporate,6,3%,2%,0,Low,Legit
+47,SpringGreen Boli Express,2026-03-24,P.H.,"8416 Duran Harbors, East Theresafurt, MN 44945",774.270.1687x339,GB80BJPT74801624565060,TRUE,TRUE,Corporate,17,2%,1%,0,Low,Legit
+48,Moccasin Yam Hub,2026-01-12,Lagos,"0551 Silva Underpass Apt. 974, Lake Brett, NJ 22850",798.968.0002,GB27QOET82595269495888,TRUE,TRUE,Corporate,19,3%,3%,0,Low,Legit
+49,Violet Boli Hub,26/02/2026,Abuja,"549 Lee Gateway Suite 843, Kellieborough, UT 92905",(830)491-3075,GB28NWGN89702838578652,TRUE,TRUE,Corporate,18,2%,1%,0,Low,Legit
+50,SlateGray Boli Kitchen,2026-02-14,Abuja,"301 Rivera Mountains, Lake Kellitown, OH 21202",258.644.1986x6524,GB32WCLO47338484219933,TRUE,TRUE,Corporate,13,1%,3%,0,Low,Legit
+51,PaleTurquoise Suya Chow,2026-03-17,Ibadan,"3152 Wong Stravenue Apt. 054, East Cheryl, SC 53649",434.254.0193x8026,GB98MZPF40049915478872,TRUE,TRUE,Corporate,9,4%,2%,0,Low,Legit
+52,Pink Jollof Express,2026-03-25,P.H.,"27279 Perry Plaza, Toddborough, WV 32936",616-712-2753x04637,GB46JSXS04530174268414,TRUE,TRUE,Corporate,12,4%,4%,0,Low,Legit
+53,Cyan Egusi Hub,2026-03-27,Abuja,"064 Julie Prairie Apt. 065, New Virginialand, NJ 04660",485.419.1088x398,GB26KQOD39718707286790,TRUE,TRUE,Corporate,9,2%,3%,0,Low,Legit
+54,LightSlateGray Egusi Express,2026-03-04,Abuja,"10690 Jamie Courts Apt. 790, Lake Bradley, NV 31216",(426)756-7661,GB83DFRM82300478686337,TRUE,TRUE,Corporate,6,3%,3%,0,Low,Legit
+55,Yellow Boli Chow,2026-01-26,Lagos,"34270 Faulkner Point Apt. 634, West Deborah, NV 49138",001-502-884-3959x95342,GB31JIBR92687056856624,TRUE,TRUE,Corporate,7,4%,2%,0,Low,Legit
+56,DarkGoldenRod Suya Kitchen,29/03/2026,Abuja,"5877 Leah Stravenue Suite 535, Robertshire, VI 29503",001-930-546-9901x3983,GB03KJAG31739363854678,TRUE,TRUE,Corporate,19,4%,1%,0,Low,Legit
+57,DarkViolet Jollof Express,2025-12-18,Abuja,"006 Megan Fort, Lake Edwardborough, NY 60271",589-996-4235x369,GB41RUVK47772522872808,TRUE,TRUE,Corporate,12,2%,3%,0,Low,Legit
+58,Navy Jollof Kitchen,2025-12-26,P.H.,"9334 Desiree Walks Apt. 166, Tranton, SC 01739",+1-697-670-0886x008,GB67AQWV62118233984546,TRUE,TRUE,Corporate,16,3%,3%,0,Low,Legit
+59,FloralWhite Egusi Chow,2025-12-31,Abuja,"2185 Connor Fort Apt. 599, Novakmouth, AK 83616",365.691.8033x9740,GB46RSVB25039261429396,TRUE,TRUE,Corporate,19,4%,4%,0,Low,Legit
+60,LightPink Jollof Express,2026-03-12,Abuja,"886 Anthony Knoll Apt. 995, Smithchester, MS 11602",335.386.6296x1943,GB78IEMW26551104754121,TRUE,TRUE,Corporate,8,4%,4%,0,Low,Legit
+61,LemonChiffon Jollof Chow,2026-04-05,Abuja,"5692 Flores Square Apt. 752, Novakport, WA 91590",826.622.4447x21264,GB31PZCL43799371240659,TRUE,TRUE,Corporate,2,4%,2%,0,Low,Legit
+62,SlateGray Suya Kitchen,2026-04-05,Lagos,"Unit 7968 Box 8680, DPO AA 92465",456.246.5193,GB10XOWG74167243426617,TRUE,TRUE,Corporate,7,3%,1%,0,Low,Legit
+63,WhiteSmoke Egusi Chow,09/04/2026,Ibadan,"1125 Cooper Tunnel Apt. 875, Davismouth, MD 09305",+1-211-335-2909x6561,GB34IHQX88993756798250,TRUE,TRUE,Corporate,14,3%,2%,0,Low,Legit
+64,Lime Suya Express,2025-12-23,Abuja,"182 Nguyen Mount, West Emilyfort, NC 84270",001-810-951-2382x825,GB29HZMU22660937966033,TRUE,TRUE,Corporate,0,5%,2%,0,Low,Legit
+65,Maroon Boli Kitchen,2026-04-09,Abuja,"274 Jacob Ville, Harveystad, AL 64019",(396)491-5579x2499,GB95KDHJ12528669296627,TRUE,TRUE,Corporate,7,2%,2%,0,Low,Legit
+66,DarkSlateBlue Jollof Express,2026-01-21,Lagos,"783 Garcia Village, West Nancy, AZ 59448",(588)676-7677x2190,GB44BIHR42797881914858,TRUE,TRUE,Corporate,19,3%,4%,0,Low,Legit
+67,LightGray Suya Express,2026-02-20,Lagos,"Unit 1260 Box 4223, DPO AE 93744",471-433-9596,GB23ZGGZ09584982544948,TRUE,TRUE,Corporate,14,2%,2%,0,Low,Legit
+68,MediumBlue Yam Chow,2026-02-01,Abuja,"750 Cory Tunnel, Smithburgh, NV 60337",001-767-929-4667x11684,GB44PKSA17518636374545,TRUE,TRUE,Corporate,8,4%,3%,0,Low,Legit
+69,AliceBlue Suya Hub,2026-03-08,Abuja,"62713 Davis Valley Apt. 155, Derrickberg, SD 89254",724.424.1541,GB45BMUJ36110371293870,TRUE,TRUE,Corporate,7,4%,3%,0,Low,Legit
+70,DarkTurquoise Jollof Kitchen,28/12/2025,Lagos,"438 Julie Hill, Port Rachaelbury, NM 51079",390.492.7532x69731,GB29YDSX65652341389994,TRUE,TRUE,Corporate,19,2%,1%,0,Low,Legit
+71,DarkOliveGreen Egusi Chow,2026-01-30,Abuja,"1418 Terri Drives, Peterland, ME 92077",491.980.5526x9658,GB33YCAS10430068486661,TRUE,TRUE,Corporate,5,3%,4%,0,Low,Legit
+72,PowderBlue Suya Hub,2026-01-30,Abuja,"149 Tyler Pass Suite 079, West Eric, WI 13988",6314617990,GB11DAWE02758842524105,TRUE,TRUE,Corporate,18,4%,4%,0,Low,Legit
+73,DarkOrange Boli Kitchen,2026-01-28,Lagos,"5187 Miguel Highway Suite 937, Brittanyfort, WI 26115",001-880-500-3075x6220,GB67KHNX54195180238061,TRUE,TRUE,Corporate,9,4%,3%,0,Low,Legit
+74,YellowGreen Yam Express,2026-01-31,P.H.,"182 Jones Port, South Elaineberg, IA 38731",(206)803-8505,GB07XXJD38367024103865,TRUE,TRUE,Corporate,11,1%,3%,0,Low,Legit
+75,LightGoldenRodYellow Suya Express,2026-02-14,Abuja,"13568 Erica Green Apt. 067, North Steven, AS 18823",(455)974-3132x9121,GB07OKND85374741124903,TRUE,TRUE,Corporate,20,5%,2%,0,Low,Legit
+76,DarkRed Boli Chow,2025-12-17,Ibadan,"53244 Stephenson Bypass Apt. 476, Brownview, MS 18488",6323365199,GB55ACGU72151070296670,TRUE,TRUE,Corporate,17,4%,2%,0,Low,Legit
+77,PeachPuff Jollof Hub,22/01/2026,Abuja,"96522 Brittany Valley, Robintown, VT 92324",+1-783-880-6578x7598,GB95IFAK93040785932133,TRUE,TRUE,Corporate,14,2%,2%,0,Low,Legit
+78,MidnightBlue Suya Express,2026-04-04,Abuja,"85156 Matthew Islands, East Jessica, NE 84290",001-229-337-8427,GB84BHTH08705932525002,TRUE,TRUE,Corporate,5,3%,2%,0,Low,Legit
+79,SlateBlue Boli Chow,2026-02-14,Ibadan,"5215 Smith Fords, Lake Carlos, KS 14661",(689)453-9264,GB48FXAW96902959391725,TRUE,TRUE,Corporate,0,3%,2%,0,Low,Legit
+80,AliceBlue Boli Kitchen,2025-12-24,P.H.,"062 Moore Courts Suite 336, Donnaport, IA 13072",(576)426-7658x6179,GB37OCZB40541152621815,TRUE,TRUE,Corporate,15,4%,2%,0,Low,Legit
+81,BurlyWood Jollof Express,2026-03-01,P.H.,"2704 Marshall Fork Suite 902, North Elizabethside, MT 99651",001-687-920-5061,GB64GDAG24171467741862,TRUE,TRUE,Corporate,7,2%,3%,0,Low,Legit
+82,Khaki Yam Express,2026-04-01,P.H.,"29451 Paul Locks Suite 487, Port Isabellashire, NC 55498",6683687937,GB21MWBQ98992172233206,TRUE,TRUE,Corporate,17,2%,3%,0,Low,Legit
+83,DarkOliveGreen Jollof Hub,2026-03-05,P.H.,"307 Prince Brooks Suite 444, Garrisonville, VI 30379",(629)799-1191,GB87NIMU79970246299606,TRUE,TRUE,Corporate,6,2%,3%,0,Low,Legit
+84,DarkSlateBlue Egusi Chow,11/02/2026,P.H.,"345 Wagner Roads Apt. 035, Wheelerburgh, VI 62705",001-775-246-9137x3678,GB45QZFC48628902330307,TRUE,TRUE,Corporate,18,5%,3%,0,Low,Legit
+85,MediumVioletRed Yam Kitchen,2026-02-19,Abuja,"6574 Steven Springs Suite 910, Annaport, ME 90208",(541)540-6029,GB87UHVG46800722903494,TRUE,TRUE,Corporate,5,2%,3%,0,Low,Legit
+86,DarkMagenta Suya Chow,2026-03-18,P.H.,"875 Bruce Ville, West Connor, DC 97614",554-254-4432,GB76ZZZT65207446660993,TRUE,TRUE,Corporate,4,4%,3%,0,Low,Legit
+87,LightGoldenRodYellow Yam Express,2026-04-02,Abuja,"Unit 5697 Box 2521, DPO AA 44099",001-925-313-5346x55494,GB50PBUS99173816846022,TRUE,TRUE,Corporate,14,2%,4%,0,Low,Legit
+88,Fuchsia Suya Express,2026-02-13,Abuja,"8942 Madison Hills, Stephenhaven, PA 69198",+1-800-874-3292x7129,GB68MNPM00835058300335,TRUE,TRUE,Corporate,2,3%,3%,0,Low,Legit
+89,MediumSlateBlue Yam Hub,2026-03-09,Lagos,"2304 Stanley Shore Suite 992, Rivasville, NY 94711",+1-425-375-3260x33230,GB36LWUZ06489090100167,TRUE,TRUE,Corporate,3,3%,2%,0,Low,Legit
+90,DarkOrchid Boli Express,2026-02-07,Abuja,"3744 Williams Via, Port Benjamin, LA 47715",717-839-3483,GB78JFBR73753001197218,TRUE,TRUE,Corporate,14,2%,3%,0,Low,Legit
+91,Maroon Boli Hub,07/03/2026,Ibadan,"96590 Timothy Oval Apt. 670, West Dianatown, VT 89358",001-711-700-2255x7941,GB93FDMM74676212021697,TRUE,TRUE,Corporate,3,5%,2%,0,Low,Legit
+92,Violet Jollof Kitchen,2026-04-05,Lagos,"77971 West Crest, Mcgeetown, CT 53380",001-493-258-8916x3756,GB79AUFQ77217535408386,TRUE,TRUE,Corporate,17,1%,1%,0,Low,Legit
+93,PaleVioletRed Yam Hub,2025-12-21,Lagos,"851 Penny Park Apt. 614, East David, PR 51998",+1-580-919-9488,GB90KLBH75899757113055,TRUE,TRUE,Corporate,9,4%,3%,0,Low,Legit
+94,IndianRed Yam Kitchen,2026-03-13,Abuja,"9346 Waller Mission Apt. 269, Meganside, VI 41645",451.960.9177,GB29AQXB86978292216995,TRUE,TRUE,Corporate,3,3%,3%,0,Low,Legit
+95,IndianRed Suya Kitchen,2026-01-23,Abuja,"4204 Karen Bypass, Lisaville, RI 89043",394.752.2885,GB81RPSS68460810620034,TRUE,TRUE,Corporate,19,4%,3%,0,Low,Legit
+96,Ivory Egusi Chow,2026-04-02,P.H.,"8422 Smith Mountain Apt. 025, Port Sarahport, NM 75562",(538)940-6665x8004,GB41HUWW59893347212281,TRUE,TRUE,Corporate,12,5%,3%,0,Low,Legit
+97,MintCream Boli Hub,2025-12-29,Abuja,"PSC 9930, Box 5616, APO AA 71310",001-858-332-8182x688,GB47LHGV55543987801573,TRUE,TRUE,Corporate,10,3%,1%,0,Low,Legit
+98,LightSkyBlue Suya Chow,19/12/2025,Ibadan,"193 Russell Mission Suite 650, Nunezside, AL 84573",258.387.7043x58112,GB89GVUY36138612075011,TRUE,TRUE,Corporate,1,4%,2%,0,Low,Legit
+99,Coral Yam Kitchen,2026-04-07,Ibadan,"99688 Kevin Summit, Jasonhaven, FL 21597",6159814491,GB62MMVA72832684245088,TRUE,TRUE,Corporate,13,4%,2%,0,Low,Legit
+100,GhostWhite Egusi Chow,2026-01-26,Abuja,"12908 Newman Cliffs Suite 141, Lake Beverly, MA 47311",+234 802 111 2222,0055443322_GTB,TRUE,TRUE,Corporate,3,4%,2%,0,Low,Legit (Shared Info)
+101,DarkSalmon Boli Hub,2026-01-29,Abuja,"57759 Steele Drives, Lindseychester, GA 01134",+234 802 111 2222,0055443322_GTB,TRUE,TRUE,Corporate,2,2%,2%,0,Low,Legit (Shared Info)
+102,Maroon Boli Express,2026-01-31,Abuja,"84887 Michael Fork, Dennishaven, NY 12370",764.652.5777,GB43PRDF91428341108099,TRUE,TRUE,Corporate,1,2%,2%,0,Low,Legit
+103,Orchid Suya Kitchen,2026-02-23,Abuja,"498 Nicholas Lane Suite 918, Nicholasbury, NC 53695",703.292.8272x29927,GB35HYPH14530385677005,TRUE,TRUE,Corporate,17,2%,2%,0,Low,Legit
+104,MidnightBlue Boli Kitchen,2026-02-19,P.H.,"80920 Jonathan Falls, Greeneshire, SC 02941",479.408.2723x1843,GB87FLTW13651777392603,TRUE,TRUE,Corporate,5,2%,1%,0,Low,Legit
+105,LightSkyBlue Suya Express,31/12/2025,Lagos,"91279 Natalie Place Apt. 172, Port Erikachester, NC 55640",479.477.2369,GB72TVQI25799136621038,TRUE,TRUE,Corporate,20,4%,2%,0,Low,Legit
+106,NavajoWhite Egusi Express,2025-12-23,Abuja,"5126 Green Plain Suite 959, Victoriafurt, WV 27199",001-686-937-6599x162,GB65YHCJ98643009818063,TRUE,TRUE,Corporate,7,3%,1%,0,Low,Legit
+107,PaleVioletRed Jollof Hub,2026-04-01,Abuja,"9611 Walker Common, Lake Patrickfurt, RI 86507",+1-772-858-8744,GB07XEVD37213865890260,TRUE,TRUE,Corporate,13,2%,3%,0,Low,Legit
+108,Turquoise Yam Express,2026-02-08,Lagos,"4393 Spears Ports Apt. 426, New Charlesport, MA 15837",001-590-427-7038x430,GB39VBLH02146566938011,TRUE,TRUE,Corporate,14,3%,2%,0,Low,Legit
+109,Thistle Egusi Chow,2026-02-03,Lagos,"82755 Patricia Grove Apt. 373, Lake John, KS 27603",+1-994-976-9735,GB49SAPD41633565880434,TRUE,TRUE,Corporate,7,3%,2%,0,Low,Legit
+110,Khaki Egusi Express,2026-01-23,Abuja,"562 Bray Square, Stewarttown, AL 88857",295.221.1179,GB54PLTK79472846392086,TRUE,TRUE,Corporate,20,5%,2%,0,Low,Legit
+111,HoneyDew Boli Chow,2026-02-26,Lagos,"438 Chase Flat, Port Susan, FL 62496",001-515-659-4284,GB35PTKL27636556472929,TRUE,TRUE,Corporate,14,1%,4%,0,Low,Legit
+112,Aqua Jollof Hub,18/01/2026,Abuja,"982 Kelly Spring, Hamptonmouth, FM 10778",(472)288-5744x89061,GB67GIPU17545588450615,TRUE,TRUE,Corporate,8,2%,3%,0,Low,Legit
+113,Olive Boli Express,2026-04-13,Abuja,"132 Garcia Circles Suite 800, Warrenland, CT 34901",572-725-6996x1125,GB91KUJW49647598762202,TRUE,TRUE,Corporate,20,4%,3%,0,Low,Legit
+114,DeepSkyBlue Suya Kitchen,2025-12-31,P.H.,"74564 Kevin Alley, West Justin, ND 01591",+1-764-733-4722x8200,GB06PORI87282997968845,TRUE,TRUE,Corporate,9,5%,3%,0,Low,Legit
+115,SlateGray Suya Express,2026-03-17,Lagos,"24179 Nelson Road, Lopeztown, FL 07006",806-549-3085x3686,GB56FWXU66341638944846,TRUE,TRUE,Corporate,9,5%,1%,0,Low,Legit
+116,White Yam Express,2025-12-19,Lagos,"0136 Wright Bypass Apt. 718, South Paul, ME 42845",(414)242-7031,GB69PGKN47570512046187,TRUE,TRUE,Corporate,7,3%,3%,0,Low,Legit
+117,DimGray Suya Express,2025-12-23,Ibadan,"005 Jacqueline Turnpike Apt. 273, Tinastad, AS 58004",001-888-714-7435x0313,GB09AFZI91630097925132,TRUE,TRUE,Corporate,7,3%,3%,0,Low,Legit
+118,GoldenRod Yam Express,2025-12-19,Abuja,"209 Parsons Garden Suite 186, New Felicia, WI 72782",001-565-424-0778x487,GB70RLKX74982182744857,TRUE,TRUE,Corporate,0,5%,2%,0,Low,Legit
+119,DeepSkyBlue Suya Express,13/04/2026,Abuja,"PSC 1705, Box 8650, APO AP 35341",356-951-1810x2203,GB45GDBS67899405391037,TRUE,TRUE,Corporate,18,2%,4%,0,Low,Legit
+120,Wheat Jollof Express,2025-12-22,Abuja,"Unit 7558 Box 5566, DPO AP 42896",001-514-413-8113x8633,GB02RXRN19576122868528,TRUE,TRUE,Corporate,3,2%,3%,0,Low,Legit
+121,LawnGreen Suya Express,2026-04-03,Abuja,"5224 Preston Gateway, West Lisa, CO 75275",+1-236-284-5776,GB85JTAQ24043350488899,TRUE,TRUE,Corporate,0,3%,3%,0,Low,Legit
+122,PaleGoldenRod Yam Kitchen,2026-04-04,Ibadan,"8320 Maddox Terrace, East Ryanfurt, FL 17827",615.272.7919,GB76XZSM10556613906048,TRUE,TRUE,Corporate,11,2%,2%,0,Low,Legit
+123,MediumSlateBlue Suya Hub,2025-12-31,Abuja,"5904 Vanessa Ridges, Hansonmouth, AZ 31104",590.986.4168x6227,GB95MUSG89833146591166,TRUE,TRUE,Corporate,14,1%,2%,0,Low,Legit
+124,Green Yam Express,2026-02-25,Lagos,"2043 Brown Shoal, North Paulview, TN 87021",(711)303-9240,GB39JOPA53833884879206,TRUE,TRUE,Corporate,6,2%,3%,0,Low,Legit
+125,MistyRose Yam Kitchen,2026-01-04,Abuja,"46084 Edward Lock Apt. 168, South John, FL 56398",3464368157,GB34GQOR00384576205554,TRUE,TRUE,Corporate,15,5%,2%,0,Low,Legit
+126,Magenta Suya Kitchen,11/04/2026,Lagos,"949 Caitlyn Fort, West Christopherfort, DC 66341",478-423-2983x24826,GB77KCRR12520566474231,TRUE,TRUE,Corporate,12,5%,3%,0,Low,Legit
+127,SeaShell Suya Chow,2026-02-25,Ibadan,"569 Abigail Mission Suite 038, Terrellton, OH 51278",(867)272-2330,GB16INHX33127975736609,TRUE,TRUE,Corporate,3,3%,3%,0,Low,Legit
+128,Tomato Yam Hub,2025-12-24,P.H.,"1452 Christopher Squares, Waltersland, NC 93205",647.264.4726,GB64WQEO71812982665702,TRUE,TRUE,Corporate,7,3%,3%,0,Low,Legit
+129,OliveDrab Jollof Hub,2026-03-24,P.H.,"39776 Miller Rapid Apt. 384, North Jack, AR 86127",+1-426-286-0259x222,GB65NJJX74212309407778,TRUE,TRUE,Corporate,14,5%,2%,0,Low,Legit
+130,MediumVioletRed Suya Hub,2025-12-22,Abuja,"7214 Rose Pine, Lake Jason, AR 14827",(809)494-5101,GB52FVJT99827950145561,TRUE,TRUE,Corporate,15,1%,2%,0,Low,Legit
+131,Wheat Egusi Chow,2026-01-01,P.H.,"34414 Hunter Islands, North Ginamouth, MO 95449",994.969.5489x9529,GB78PZFT34301071396605,TRUE,TRUE,Corporate,17,3%,3%,0,Low,Legit
+132,Black Suya Express,2026-01-18,Ibadan,"6829 Lopez Crescent, Janetmouth, VT 04646",955.777.0272,GB13OZNX08495880395512,TRUE,TRUE,Corporate,13,5%,2%,0,Low,Legit
+133,LightPink Egusi Kitchen,05/03/2026,Abuja,"230 Hughes Way, North Larryton, TX 78395",473-357-4384,GB25LZBY31780782357845,TRUE,TRUE,Corporate,3,5%,2%,0,Low,Legit
+134,DarkCyan Egusi Chow,2026-02-17,Lagos,"49321 Austin Junction Suite 020, Bergerton, CT 50780",601.684.0943x533,GB34RKYO14224109881385,TRUE,TRUE,Corporate,3,5%,3%,0,Low,Legit
+135,CadetBlue Boli Hub,2025-12-31,Lagos,"71577 Justin Keys, New Dakota, GU 94122",(462)399-7954x53817,GB37ZWOD74773329456255,TRUE,TRUE,Corporate,10,2%,1%,0,Low,Legit
+136,DarkMagenta Boli Kitchen,2026-02-16,Ibadan,"172 Blanchard Cliff Apt. 965, Newmanton, CO 29023",+1-514-487-6963,GB47PMCK39669583219719,TRUE,TRUE,Corporate,6,4%,2%,0,Low,Legit
+137,DarkSlateGray Yam Kitchen,2026-04-06,Lagos,"36965 Sullivan Mews Apt. 272, New Patrick, MN 55188",001-602-627-8469x97335,GB95NWLC90986240580085,TRUE,TRUE,Corporate,17,2%,2%,0,Low,Legit
+138,DeepSkyBlue Yam Kitchen,2026-02-09,Ibadan,"PSC 9500, Box 9751, APO AP 63616",+1-822-401-0276x21267,GB41OQNR76532690973846,TRUE,TRUE,Corporate,10,1%,2%,0,Low,Legit
+139,Cyan Suya Hub,2026-01-11,Abuja,"79290 Lamb Road Apt. 471, New Chase, WY 36919",001-684-278-1891x3718,GB84KRYA77879565442094,TRUE,TRUE,Corporate,14,4%,3%,0,Low,Legit
+140,LightCoral Jollof Hub,09/01/2026,P.H.,"41027 Alvarez Mountains Apt. 667, Dustinchester, AL 38353",+1-444-640-1929x275,GB15ZWHP28051292766372,TRUE,TRUE,Corporate,16,2%,3%,0,Low,Legit
+141,RosyBrown Egusi Express,2026-02-27,P.H.,"3443 Andrew Course Apt. 939, Lake Susanland, PR 79758",+1-658-801-8569x45441,GB67OYVX39385258001061,TRUE,TRUE,Corporate,3,3%,4%,0,Low,Legit
+142,DarkSeaGreen Boli Kitchen,2026-02-26,Lagos,"91741 Charles Ports Suite 707, Lake Danielle, AZ 87612",+1-492-312-4471x74654,GB44IYBM65044271739627,TRUE,TRUE,Corporate,4,2%,3%,0,Low,Legit
+143,Orange Boli Chow,2026-02-04,Abuja,"328 Tammy Shore Apt. 461, Tommouth, WA 25334",(856)390-8776,GB58RHAM71985546015851,TRUE,TRUE,Corporate,16,3%,1%,0,Low,Legit
+144,DarkSlateGray Boli Kitchen,2025-12-21,Abuja,"9032 Gerald Causeway, Loriville, NH 80615",909.937.6184,GB12ABKB50613878293102,TRUE,TRUE,Corporate,14,5%,2%,0,Low,Legit
+145,FloralWhite Suya Chow,2026-04-08,Abuja,"58273 Dennis Turnpike Suite 207, North Adrianland, VT 85927",811-779-9313,GB41ZXVM51982530925114,TRUE,TRUE,Corporate,10,4%,2%,0,Low,Legit
+146,LightSkyBlue Suya Hub,2026-03-05,Lagos,"0312 Jimenez Estate, North Deannaport, IL 57474",001-272-432-4876x329,GB40WPTC45608331819588,TRUE,TRUE,Corporate,13,1%,3%,0,Low,Legit
+147,LightCoral Boli Chow,17/02/2026,P.H.,"62397 Paul Dale Suite 354, West David, UT 75037",+1-370-510-8220x781,GB07XOSS56353153136363,TRUE,TRUE,Corporate,3,3%,4%,0,Low,Legit
+148,Chocolate Boli Chow,2026-02-07,Abuja,"060 Vickie Street, South Amandafort, AS 91812",(417)476-2534,GB56SRHC68739774063356,TRUE,TRUE,Corporate,3,3%,2%,0,Low,Legit
+149,DarkGreen Yam Chow,2026-03-12,Lagos,"9893 Christine Isle Apt. 850, South Michaelton, MN 48530",931.680.6325x4310,GB62FWOS90772625701658,TRUE,TRUE,Corporate,8,3%,3%,0,Low,Legit
+150,ForestGreen Boli Hub,2026-04-02,Ibadan,"PSC 7951, Box 3711, APO AA 23938",001-518-732-5381x793,GB27LIQV64015577881788,TRUE,TRUE,Corporate,8,1%,2%,0,Low,Legit
+151,LightSlateGray Suya Kitchen,2025-12-29,Lagos,"9887 Torres Curve Suite 243, Watsonport, WI 06703",224-612-7238,GB84NVRE75670431038569,TRUE,TRUE,Corporate,18,4%,1%,0,Low,Legit
+152,DarkViolet Boli Kitchen,2026-02-21,Abuja,"7275 Adam Streets, Deborahport, NJ 38489",272-792-8422x2231,GB48SEOI52380552578284,TRUE,TRUE,Corporate,13,3%,1%,0,Low,Legit
+153,DarkViolet Boli Hub,2026-04-03,Lagos,"980 Sanders Stravenue Suite 565, West Michaelport, NV 74036",001-575-917-0281x4069,GB42LCKB93983430187186,TRUE,TRUE,Corporate,4,2%,3%,0,Low,Legit
+154,DarkCyan Egusi Express,25/01/2026,Ibadan,"704 Snyder Streets Suite 300, West Kevin, SC 83936",001-576-674-2662x9912,GB80PQKC96106462879232,TRUE,TRUE,Corporate,14,3%,2%,0,Low,Legit
+155,SeaShell Egusi Hub,2026-01-08,Abuja,"6504 Moreno Club Apt. 219, New Marcus, MD 90281",+1-946-827-3014x7195,GB08IUVP15890429025725,TRUE,TRUE,Corporate,18,3%,3%,0,Low,Legit
+156,LimeGreen Boli Hub,2026-02-05,Lagos,"527 Jackson Hollow Apt. 132, Lake Jeremy, DC 28005",+1-751-489-5202x84576,GB86DGEQ33898881671120,TRUE,TRUE,Corporate,6,2%,2%,0,Low,Legit
+157,DarkSeaGreen Yam Hub,2025-12-30,Lagos,"938 Cory Prairie, New Jayborough, LA 23015",(311)607-6031x08907,GB37BCJV01193932501249,TRUE,TRUE,Corporate,15,4%,2%,0,Low,Legit
+158,WhiteSmoke Boli Chow,2025-12-15,Lagos,"9473 Roberts Walk Suite 317, Harryfort, TX 14286",001-813-587-5927x1256,GB42QHND51718275480157,TRUE,TRUE,Corporate,12,4%,1%,0,Low,Legit
+159,Orchid Yam Express,2026-03-10,Ibadan,"7320 Joan Village Apt. 702, Jacobsmouth, FL 40183",811.326.6912x15353,GB84HNXP49946579678427,TRUE,TRUE,Corporate,12,4%,2%,0,Low,Legit
+160,DarkGray Yam Kitchen,2025-12-29,Ibadan,"97889 Alvarez Walk Apt. 806, Troyfurt, RI 89169",+1-287-273-4778x48588,GB64NDMO56770028427624,TRUE,TRUE,Corporate,14,4%,4%,0,Low,Legit
+161,MidnightBlue Jollof Express,08/02/2026,Ibadan,"864 Heather Radial Apt. 569, Morrisville, AS 64511",700-790-2559x05616,GB53NLBV33349114152085,TRUE,TRUE,Corporate,12,3%,2%,0,Low,Legit
+162,DarkGreen Yam Kitchen,2026-01-23,Lagos,"484 Alvarado Island, South Richard, RI 68051",678-652-9456x37183,GB27BJSM39191954198763,TRUE,TRUE,Corporate,16,4%,3%,0,Low,Legit
+163,SaddleBrown Jollof Kitchen,2026-03-31,Lagos,"3123 John Views, Stevenside, NE 55815",(808)229-7374,GB61QGLO23246651364424,TRUE,TRUE,Corporate,4,2%,2%,0,Low,Legit
+164,Blue Jollof Express,2026-01-23,Abuja,"USNV Crawford, FPO AE 31706",(942)204-4820,GB62BCKT41651623198189,TRUE,TRUE,Corporate,18,4%,2%,0,Low,Legit
+165,DarkRed Boli Chow,2026-02-13,P.H.,"348 Parker Squares, Rebeccaville, ND 31484",296-936-3212x34764,GB43RLWD58673425754090,TRUE,TRUE,Corporate,10,2%,1%,0,Low,Legit
+166,Red Yam Hub,2026-02-28,Abuja,"0027 Aaron Flats Suite 591, East Johnberg, PR 78359",9647413432,GB41ZYUN04177656124815,TRUE,TRUE,Corporate,16,1%,2%,0,Low,Legit
+167,PaleVioletRed Yam Hub,2026-02-15,P.H.,"2910 Ayala Motorway, Wilsonborough, ID 35392",472.842.9543x165,GB07MSHA08931734206969,TRUE,TRUE,Corporate,2,3%,3%,0,Low,Legit
+168,LightSlateGray Suya Express,20/03/2026,Ibadan,"53759 Adam Parkways, Turnerfurt, TN 49115",(626)639-3436x2620,GB02HTOH59710725636694,TRUE,TRUE,Corporate,20,2%,3%,0,Low,Legit
+169,DarkSeaGreen Egusi Hub,2026-04-02,Abuja,"57287 Jacob Center Apt. 207, Frankmouth, NE 15708",4923428757,GB97KWQN24150274564494,TRUE,TRUE,Corporate,2,3%,2%,0,Low,Legit
+170,Snow Boli Kitchen,2025-12-22,Abuja,"5915 Anthony Mount, Gibsonview, PA 86747",658.477.7121x513,GB18FXQI99390892613715,TRUE,TRUE,Corporate,11,5%,2%,0,Low,Legit
+171,AntiqueWhite Yam Hub,2026-02-16,Abuja,"47649 Michael Court, Williamfort, NV 51368",7972592304,GB63XCRT61642361032664,TRUE,TRUE,Corporate,3,3%,2%,0,Low,Legit
+172,Sienna Yam Hub,2026-02-05,Ibadan,"86490 Samantha Passage Apt. 866, South Donnashire, GU 33712",001-896-316-5926,GB89BQKO32788147617422,TRUE,TRUE,Corporate,4,5%,2%,0,Low,Legit
+173,MidnightBlue Boli Hub,2026-02-02,Abuja,"1027 Holt Ways, Turnerstad, UT 88817",001-218-301-7226,GB63NWJK97794523219416,TRUE,TRUE,Corporate,17,3%,3%,0,Low,Legit
+174,Orchid Egusi Chow,2026-02-11,Lagos,"USCGC Smith, FPO AA 77207",522-903-1030,GB58UEUH68314727601227,TRUE,TRUE,Corporate,11,2%,4%,0,Low,Legit
+175,LemonChiffon Jollof Kitchen,23/01/2026,Lagos,"9576 Evan Stream, South Maurice, IN 67037",696-205-0166x7998,GB76PMPQ99730806958146,TRUE,TRUE,Corporate,2,2%,3%,0,Low,Legit
+176,Indigo Suya Chow,2026-04-08,Ibadan,"015 Wilson Forks, New Jeffreyview, MA 47063",+1-359-972-4665x72934,GB89EFGF97167433800545,TRUE,TRUE,Corporate,4,3%,1%,0,Low,Legit
+177,Brown Egusi Hub,2026-04-02,Abuja,"0375 Wagner Corner Suite 565, East Karen, NC 55776",328-291-0771x199,GB83QDFU13524787125521,TRUE,TRUE,Corporate,11,4%,2%,0,Low,Legit
+178,Khaki Egusi Kitchen,2026-01-10,Ibadan,"673 Terry Valleys, Roweport, CO 05346",(766)878-5072x08115,GB97YFNB60290846684550,TRUE,TRUE,Corporate,7,2%,3%,0,Low,Legit
+179,WhiteSmoke Boli Express,2026-02-17,Abuja,"5399 Michael Haven, Lake Nicholas, WA 32958",(228)284-3188x4852,GB37ZRSI34681054851017,TRUE,TRUE,Corporate,9,4%,3%,0,Low,Legit
+180,DarkKhaki Boli Kitchen,2026-02-16,Abuja,"7288 Heather Motorway, Johnsonburgh, OH 48910",993.557.1266x11062,GB73OCLV86988649767762,TRUE,TRUE,Corporate,1,4%,4%,0,Low,Legit
+181,DarkOrchid Suya Chow,2026-04-10,Lagos,"756 Davenport Village Apt. 287, Contrerasberg, VI 95903",(611)959-4082x15454,GB45AZEE96044327018510,TRUE,TRUE,Corporate,5,2%,4%,0,Low,Legit
+182,MediumOrchid Jollof Express,01/01/2026,Abuja,"82043 Maria Villages, Millerside, PA 42500",+1-496-263-6580x741,GB65SUZY48181398909837,TRUE,TRUE,Corporate,0,3%,2%,0,Low,Legit
+183,PaleGoldenRod Suya Chow,2026-04-08,Lagos,"6152 Orozco Green, Davidville, AR 27050",7708562608,GB25ICDD82422412462095,TRUE,TRUE,Corporate,0,2%,1%,0,Low,Legit
+184,LawnGreen Jollof Hub,2026-04-09,Abuja,"58238 Ali Point, Williamsmouth, MP 81861",001-737-988-6140,GB09RNCP06304891382496,TRUE,TRUE,Corporate,15,4%,1%,0,Low,Legit
+185,LightSteelBlue Suya Hub,2026-01-16,Lagos,"3553 Haley Isle Apt. 209, Smithtown, TX 23246",6072494653,GB92FXRS14161284639855,TRUE,TRUE,Corporate,8,2%,1%,0,Low,Legit
+186,PaleVioletRed Suya Chow,2026-04-01,Lagos,"75047 Adrian View, Rodriguezview, OK 66079",001-776-881-1807x156,GB79FYZW01753703045319,TRUE,TRUE,Corporate,9,1%,2%,0,Low,Legit
+187,Snow Suya Hub,2026-01-17,Abuja,"5803 Joshua Manor Suite 506, West Christopher, OK 03826",+1-339-499-2192,GB47ISHQ43089487060566,TRUE,TRUE,Corporate,19,3%,3%,0,Low,Legit
+188,Ivory Yam Express,2026-03-07,Lagos,"791 Terri Bypass, Edwardsland, WY 17217",933-825-4110,GB92ZASZ54317350583199,TRUE,TRUE,Corporate,19,2%,3%,0,Low,Legit
+189,Chocolate Yam Hub,10/03/2026,Ibadan,"311 Brooke Cliff Apt. 928, Michaelfort, VA 81877",6498611080,GB81MDTY63990767699150,TRUE,TRUE,Corporate,17,3%,4%,0,Low,Legit
+190,Red Egusi Hub,2026-01-20,P.H.,"5333 Matthew Shores, Nealmouth, PA 91257",720.602.4968,GB44SRYE27495450892038,TRUE,TRUE,Corporate,12,5%,2%,0,Low,Legit
+191,MediumPurple Yam Kitchen,2026-04-06,P.H.,"124 Lee Prairie, Bradleytown, ID 26430",001-259-946-5217,GB21HAUH37933756362050,TRUE,TRUE,Corporate,20,1%,3%,0,Low,Legit
+192,LightSkyBlue Yam Chow,2026-01-17,P.H.,"38655 Rowland Gardens, Port Christinaborough, PR 70685",442.658.3230,GB62DAVE61534735528961,TRUE,TRUE,Corporate,5,4%,3%,0,Low,Legit
+193,LightYellow Jollof Hub,2026-01-12,P.H.,"3466 Selena Landing, Andreaberg, WV 11514",830-742-8973x17912,GB65PQOF55877749690333,TRUE,TRUE,Corporate,14,1%,2%,0,Low,Legit
+194,LightYellow Yam Express,2026-03-11,Ibadan,"0835 Emily Glen, Julieview, ID 92990",753.990.7895x67766,GB68KIMA27341514888143,TRUE,TRUE,Corporate,15,2%,3%,0,Low,Legit
+195,DarkSlateGray Suya Chow,2026-03-30,Abuja,"2924 Vincent Shoals, Matthewchester, NE 90385",804-545-6690x782,GB44HXXG73898775153663,TRUE,TRUE,Corporate,3,4%,2%,0,Low,Legit
+196,PaleGreen Yam Kitchen,29/03/2026,Abuja,"23164 Jesse Shoals Apt. 705, East Markchester, MO 21083",859-809-0225x9999,GB41GMCR63715974121820,TRUE,TRUE,Corporate,15,2%,3%,0,Low,Legit
+197,DarkOliveGreen Suya Express,2026-01-09,Ibadan,"7901 Lucas Motorway Suite 469, South John, MH 81468",+1-867-916-3234,GB90FTSJ93874302716938,TRUE,TRUE,Corporate,5,3%,2%,0,Low,Legit
+198,Plum Yam Express,2026-03-13,Ibadan,"5636 Alex Crescent Apt. 577, Jonesside, TN 32258",(929)816-0324x8413,GB55YRDL11856724380701,TRUE,TRUE,Corporate,13,2%,2%,0,Low,Legit
+199,Purple Boli Express,2026-01-11,Abuja,"3353 Christopher Manor, North Matthewborough, TX 88181",342.220.9124x1862,GB51VIEO52308370816470,TRUE,TRUE,Corporate,20,5%,4%,0,Low,Legit
+200,Coral Yam Kitchen,2026-01-26,Lagos,"950 Nicole Loop Suite 971, West Susan, PA 43014",522-506-8155,GB27RMND33155206506373,TRUE,TRUE,Personal,44,14%,10%,15,Low,Medium Risk
+201,Orange Suya Kitchen,2026-01-09,P.H.,"97524 Schneider Trace, New Latoyachester, SD 38309",225-571-5099x76838,GB59ATYD43639102574326,TRUE,TRUE,Personal,51,11%,12%,25,Medium,Medium Risk
+202,Bisque Egusi Chow,2026-01-28,Abuja,"2336 Catherine Hollow Suite 973, Michellefort, CO 47632",001-455-933-8033x9685,GB46UACP13023212983381,TRUE,TRUE,Personal,54,13%,9%,15,Low,Medium Risk
+203,Orchid Yam Chow,26/02/2026,Lagos,"73230 Michelle Stream Suite 766, Wallerstad, MS 64667",(277)868-9627,GB10NCYJ98282467474689,TRUE,TRUE,Personal,70,9%,10%,15,Low,Medium Risk
+204,Linen Boli Hub,2026-04-08,Abuja,"USNS King, FPO AP 76305",660-716-9236,GB62QWPU50663370502497,TRUE,TRUE,Personal,64,10%,8%,15,Low,Medium Risk
+205,DodgerBlue Jollof Hub,2025-12-17,Lagos,"0116 Pena Street, Jacksonstad, HI 92781",416-869-1836,GB12IWJQ86946119524364,TRUE,TRUE,Personal,67,9%,6%,15,Low,Medium Risk
+206,DarkSlateBlue Yam Hub,2026-01-22,Ibadan,"04090 Jason Turnpike, South Carrieview, NM 62528",828.917.9323x0234,GB93UTDU21416141509377,TRUE,TRUE,Personal,57,10%,7%,15,Low,Medium Risk
+207,MediumSlateBlue Yam Kitchen,2026-04-11,Lagos,"Unit 5050 Box 5739, DPO AA 52951",(255)955-3566x90551,GB10WMXE09184357978630,TRUE,TRUE,Personal,46,14%,7%,15,Low,Medium Risk
+208,Cyan Boli Chow,2026-02-20,Abuja,"PSC 4347, Box 1287, APO AE 91174",(371)664-9328x98027,GB76VROF71783332116025,TRUE,TRUE,Personal,65,15%,6%,15,Low,Medium Risk
+209,MediumSeaGreen Egusi Express,2026-01-27,Ibadan,"6552 Daniel Branch, Stewartport, MP 29193",001-591-656-6863,GB48DJCD15931952569040,TRUE,TRUE,Personal,53,13%,11%,25,Medium,Medium Risk
+210,SpringGreen Suya Express,13/03/2026,Abuja,"Unit 2086 Box 5675, DPO AA 51758",(394)620-9548,GB81WSPU37460523302764,TRUE,TRUE,Personal,61,12%,6%,15,Low,Medium Risk
+211,Cornsilk Jollof Kitchen,2026-03-27,Abuja,"01859 Booker Road Suite 301, South Tracy, UT 78640",001-444-438-6125x9047,GB98OWPJ23330591266201,TRUE,TRUE,Personal,56,14%,5%,15,Low,Medium Risk
+212,ForestGreen Yam Kitchen,2026-02-25,Lagos,"8887 April Prairie, Port Karenville, HI 79026",001-517-264-7501x11178,GB51SSSP41926764921518,TRUE,TRUE,Personal,50,15%,7%,15,Low,Medium Risk
+213,Gainsboro Yam Kitchen,2025-12-16,P.H.,"585 Hailey Shore Apt. 303, West Melissa, IL 18091",+1-375-610-2932,GB46YBCD84582603408487,TRUE,TRUE,Personal,70,12%,6%,15,Low,Medium Risk
+214,IndianRed Suya Kitchen,2026-04-08,Ibadan,"Unit 6609 Box 3141, DPO AP 14917",(942)396-1844x626,GB40IVNW28314359892625,TRUE,TRUE,Personal,70,12%,6%,15,Low,Medium Risk
+215,PaleTurquoise Boli Hub,2025-12-27,Lagos,"9240 Diane Divide Suite 940, Jasminebury, TX 80284",315-454-2340x16361,GB03QXJS71859484910256,TRUE,TRUE,Personal,42,8%,9%,15,Low,Medium Risk
+216,PeachPuff Jollof Express,2026-03-13,Ibadan,"USCGC Rhodes, FPO AP 18382",(575)678-4468,GB32UCJN51113129014870,TRUE,TRUE,Personal,60,8%,11%,25,Medium,Medium Risk
+217,Silver Yam Express,21/03/2026,Lagos,"144 Carter Forest, Lake Crystalfurt, IL 40454",281.960.9306x85389,GB25FVYQ32152850676251,TRUE,TRUE,Personal,65,14%,8%,15,Low,Medium Risk
+218,Thistle Jollof Express,2025-12-21,Abuja,"76545 Mcclain Plain Suite 177, East Michael, NE 01262",297.705.0975x451,GB62XFML01673188261702,TRUE,TRUE,Personal,55,11%,7%,15,Low,Medium Risk
+219,MintCream Yam Express,2026-01-22,Lagos,"305 Bray Street, South Timothyport, NM 11329",434-502-6650,GB92PVID67872568621102,TRUE,TRUE,Personal,64,11%,9%,15,Low,Medium Risk
+220,Pink Suya Chow,2026-02-01,Abuja,"8433 Simmons Circle Suite 041, Michaelstad, VT 55298",+1-328-423-4143x637,GB11GSUU23126043260931,TRUE,TRUE,Personal,47,9%,5%,15,Low,Medium Risk
+221,LightBlue Jollof Kitchen,2026-02-15,Abuja,"96112 Blake Shoal Apt. 371, New Christineport, VA 62655",6203005347,GB54NFIP55411082555989,TRUE,TRUE,Personal,69,12%,7%,15,Low,Medium Risk
+222,Green Egusi Express,2026-03-28,Abuja,"Unit 2786 Box 8669, DPO AA 27623",001-820-323-6848x5571,GB50PNQQ02942409036788,TRUE,TRUE,Personal,55,8%,12%,25,Medium,Medium Risk
+223,GhostWhite Jollof Chow,2025-12-15,Lagos,"81059 Nguyen Squares, Jenniferchester, MH 80649",(693)690-8788,GB13HJWI81230834024240,TRUE,TRUE,Personal,41,10%,9%,15,Low,Medium Risk
+224,LightYellow Boli Hub,16/02/2026,Lagos,"72722 Ashley Stream Apt. 404, East Lisa, TX 80169",3058342408,GB44UIUU98373543962736,TRUE,TRUE,Personal,53,9%,7%,15,Low,Medium Risk
+225,Gold Suya Express,2025-12-28,Lagos,"724 Mendoza Gardens Apt. 848, North Malloryville, ND 39395",(216)337-6182,GB25MMAD00231429001851,TRUE,TRUE,Personal,58,12%,8%,15,Low,Medium Risk
+226,DarkKhaki Boli Express,2026-03-24,Ibadan,"49451 Hendricks Shore Suite 410, Port Diana, MD 19870",(920)430-3662x54361,GB51DHDJ51951510922685,TRUE,TRUE,Personal,48,14%,9%,15,Low,Medium Risk
+227,Orange Suya Express,2026-03-11,Abuja,"96893 Joe Alley Apt. 058, Rosarioville, AR 46290",001-771-719-6421x5226,GB07PNPW69523668788788,TRUE,TRUE,Personal,65,15%,9%,15,Low,Medium Risk
+228,MistyRose Boli Express,2026-01-11,Ibadan,"27284 Jenkins Junction Suite 041, North Nicole, AZ 79691",272-886-3330x2126,GB13LBWD91792025213109,TRUE,TRUE,Personal,41,8%,6%,15,Low,Medium Risk
+229,ForestGreen Egusi Kitchen,2026-03-22,Ibadan,"2056 Joseph Cove Apt. 595, East Julianside, CT 09062",(606)567-8498,GB33NFIC86236903628917,TRUE,TRUE,Personal,68,12%,7%,15,Low,Medium Risk
+230,HotPink Egusi Chow,2026-04-09,Ibadan,"PSC 8182, Box 0967, APO AP 05404",2439830341,GB59BBKC40546835652156,TRUE,TRUE,Personal,50,12%,9%,15,Low,Medium Risk
+231,LightSteelBlue Egusi Hub,15/01/2026,Abuja,"8171 Edwards Hill, North Joshua, MN 46817",(771)913-3228,GB74ZEKJ59606339912971,TRUE,TRUE,Corporate,10,4%,4%,0,Low,Legit
+232,DarkCyan Suya Express,2025-12-28,Abuja,"380 Melissa Highway, Moorefurt, PR 10066",(974)274-7219,GB59LJMN92758955168740,TRUE,TRUE,Corporate,20,4%,3%,0,Low,Legit
+233,Ivory Boli Express,2026-02-28,Lagos,"605 Irwin Forest, East Mirandachester, KY 33540",815.577.8711x216,GB72MKCK59737147082723,TRUE,TRUE,Corporate,16,4%,3%,0,Low,Legit
+234,Fuchsia Suya Hub,2025-12-31,Lagos,"99255 Edward Mount, South Michelle, DE 88836",(514)661-4768,GB51FBCN54235677826596,TRUE,TRUE,Corporate,0,3%,2%,0,Low,Legit
+235,PaleTurquoise Boli Express,2026-02-04,P.H.,"512 Patterson Fall Apt. 866, Meganchester, SC 37626",807.527.9103x36829,GB82LGGV90550448177665,TRUE,TRUE,Corporate,1,4%,3%,0,Low,Legit
+236,DarkGreen Boli Express,2026-01-01,Abuja,"PSC 6053, Box 8444, APO AA 54858",310-996-1798,GB19QSZB46337861371576,TRUE,TRUE,Corporate,5,3%,3%,0,Low,Legit
+237,LawnGreen Yam Express,2025-12-15,Lagos,"482 Harris Course Apt. 609, North Christine, ND 10825",(800)502-5895x52963,GB15TUMB96262658263128,TRUE,TRUE,Corporate,7,2%,2%,0,Low,Legit
+238,Olive Egusi Chow,19/12/2025,Abuja,"1706 Tommy Road, East Gracefurt, FM 41603",001-227-652-3343x8364,GB49CEUA91179112442117,TRUE,TRUE,Corporate,11,3%,4%,0,Low,Legit
+239,RoyalBlue Boli Express,2026-01-15,Abuja,"52312 Hill Flats, West Jeanport, NH 98175",(740)929-9015,GB41TTRA28413908088235,TRUE,TRUE,Corporate,11,5%,3%,0,Low,Legit
+240,Snow Suya Chow,2026-03-09,Abuja,"649 Sanders Crescent Apt. 562, Johnborough, TN 49215",963.842.3461x99423,GB41ONTX45919663955172,TRUE,TRUE,Corporate,20,2%,2%,0,Low,Legit
+241,Navy Boli Chow,2026-01-12,Lagos,"1172 Garza Freeway Apt. 409, South Justinfurt, AZ 70423",001-851-605-0537x95381,GB27TGQG18491966553307,TRUE,TRUE,Corporate,3,3%,3%,0,Low,Legit
+242,Wheat Jollof Kitchen,2025-12-22,Lagos,"580 Jordan Tunnel, North Brandonport, CA 35068",901-271-6445x56185,GB29MJWO71591030021563,TRUE,TRUE,Corporate,3,3%,3%,0,Low,Legit
+243,MediumPurple Boli Kitchen,2026-04-12,Abuja,"Unit 0303 Box 7637, DPO AE 45124",(342)529-7125x2967,GB44SPVP45731441583311,TRUE,TRUE,Corporate,20,5%,4%,0,Low,Legit
+244,HoneyDew Yam Chow,2026-04-08,Abuja,"4181 Reynolds Drive Suite 868, Brianview, MN 13321",001-588-854-7281x23567,GB80GCIN24912711307240,TRUE,TRUE,Corporate,20,1%,3%,0,Low,Legit
+245,BurlyWood Boli Hub,27/02/2026,Lagos,"6134 Harris Turnpike Apt. 549, Jessicaville, HI 66461",001-863-343-6294x8978,GB20VBUH13100943181439,TRUE,TRUE,Corporate,13,5%,2%,0,Low,Legit
+246,Silver Jollof Chow,2026-02-12,Lagos,"88221 Kevin Street Suite 775, Elizabethview, MN 60630",001-832-751-2257x207,GB32AFIC20957907371009,FALSE,FALSE,Personal,75,29%,30%,90,Critical,Individual Fraud
+247,Aquamarine Boli Express,2026-02-21,Lagos,"644 Blake Pike Suite 916, Knightstad, LA 14943",758-997-1480x2632,GB49AHSX65313614878245,FALSE,FALSE,Personal,91,34%,20%,90,Critical,Individual Fraud
+248,Aqua Egusi Chow,2026-03-21,P.H.,"42369 Kelly Bypass, Fitzpatrickbury, AS 89433",+1-227-928-4982x47414,GB53BGJS10740650042548,FALSE,FALSE,Personal,80,20%,23%,90,Critical,Individual Fraud
+249,OliveDrab Jollof Express,2026-03-07,Abuja,"5676 Murray Points Apt. 612, Kristinshire, NY 49405",(614)449-4296x5923,GB49NRGJ41497826612875,FALSE,FALSE,Personal,91,30%,25%,90,Critical,Individual Fraud
+250,DarkSalmon Egusi Chow,2026-03-30,Lagos,"32440 Hanson Flats Apt. 102, New Collinborough, CT 62595",001-940-262-6078,GB09CBIU15914975019803,FALSE,FALSE,Personal,75,28%,21%,90,Critical,Individual Fraud
+251,Bisque Boli Hub,2026-03-23,Abuja,"6176 Hernandez Haven Suite 196, New Kevinmouth, AZ 46995",960.314.6723x849,GB33NEUA22328837744197,FALSE,FALSE,Personal,95,31%,21%,90,Critical,Individual Fraud
+252,DarkSlateGray Jollof Express,15/03/2026,P.H.,"59959 Jones Burgs Apt. 311, Villafort, MD 30848",001-374-402-5883x5868,GB66UELU95724461767929,FALSE,FALSE,Personal,91,48%,37%,90,Critical,Individual Fraud
+253,LavenderBlush Yam Chow,2026-01-04,Ibadan,"26831 Crystal Skyway, East Arthurberg, MH 01187",(366)910-9410,GB36YLTU02517629833477,FALSE,FALSE,Personal,82,27%,18%,90,Critical,Individual Fraud
+254,MistyRose Yam Express,2026-03-04,P.H.,"34465 Monique Estate Suite 189, Port April, RI 66043",001-981-752-8733,GB26LTRE17661912841173,FALSE,FALSE,Personal,92,47%,34%,90,Critical,Individual Fraud
+255,Magenta Suya Express,2026-03-02,Ibadan,"USCGC Potts, FPO AA 95309",+1-508-719-7400x564,GB96YBEG85037199051699,FALSE,FALSE,Personal,97,31%,38%,90,Critical,Individual Fraud
+256,BlueViolet Boli Kitchen,2026-01-04,Ibadan,"95535 Hull Freeway Apt. 190, South Julie, FM 70784",2782356743,GB66AYZZ38960870662668,FALSE,FALSE,Personal,92,24%,23%,90,Critical,Individual Fraud
+257,Brown Jollof Express,2025-12-17,Lagos,"458 Brian Loop, Ramirezborough, PW 18475",001-530-610-2724x0559,GB10ETMP11148375374584,FALSE,FALSE,Personal,91,33%,16%,90,Critical,Individual Fraud
+258,Turquoise Egusi Hub,2026-01-28,Ibadan,"040 Pineda Rest Suite 493, West Jessicachester, VI 56540",283-615-2037x7107,GB24ISMJ10496706670336,FALSE,FALSE,Personal,89,40%,23%,90,Critical,Individual Fraud
+259,Chartreuse Suya Kitchen,05/01/2026,Ibadan,"901 Carroll Islands Suite 277, South Alanton, MI 63442",+1-664-487-6998,GB34MOXH20441384596094,FALSE,FALSE,Personal,77,21%,24%,90,Critical,Individual Fraud
+260,IndianRed Suya Express,2026-03-04,Lagos,"44058 Caroline Keys, North Williamville, NY 10652",4916498517,GB72YZII72322903102879,FALSE,FALSE,Personal,84,32%,34%,90,Critical,Individual Fraud
