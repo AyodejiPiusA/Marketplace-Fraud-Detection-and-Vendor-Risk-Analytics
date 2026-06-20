@@ -41,9 +41,6 @@ To simulate marketplace operations, three linked datasets were generated using P
 * Vendors (1) ➔ (Many) Orders: Connected via Vendor_ID. (A single vendor can process thousands of orders).
 * Vendors (1) ➔ (Many) Images: Connected via Vendor_ID. (A single vendor can upload multiple profile and menu images).
 
-### Dataset Design
-To simulate marketplace operations, three linked datasets were generated using Python. The synthetic data was intentionally designed to model both legitimate and suspicious behavior, including unverified business registrations, elevated refund frequencies, and duplicate image usage.
-
 #### 1. Vendors Dataset (Dimension Table)
 **Description:** The primary entity table storing all demographic, operational, compliance, and algorithmic risk metrics for the 260 marketplace restaurants.
 
@@ -163,12 +160,12 @@ The synthetic data reveals that when bad actors operates in coordinated networks
 * Bank accounts
 * Phone numbers
 * Addresses
-Because this vendors also exclusively uses scraped social media images, combining image proverance checks with with network based identifiers tracking will severely undermine coordinated fraud efforts.
+Because this vendors also exclusively use scraped social media images, combining image provenance checks with network based identifiers tracking will severely undermine coordinated fraud efforts.
 
 ---
 
 ### 5. High Transaction Volumes Drive The Largest Capital Drain
-While low risk vendors maintain the healthiest refund rate on the platform at 25.5%, their massive transcation volume of 4938 orders results in the platform's highest total total finacial outflow, accounting for approximately 17 Million Naira in cummulative refunds. This highlights the need to optimize standard vendor fulfilment and customer satisfaction.
+While low risk vendors maintain the healthiest refund rate on the platform at 25.5%, their massive transaction volume of 4938 orders results in the platform's highest total financial outflow, accounting for approximately 17 Million Naira in cumulative refunds. This highlights the need to optimize standard vendor fulfilment and customer satisfaction.
 
 ---
 
@@ -182,7 +179,7 @@ Require successful CAC and TIN validation before vendors are permitted to operat
 
 ### Implement Automated Image Verification Checks
 
-Deploy automated  reverse-image screening solutions to identify duplicated or externally sourced content during the vendor application process. Findings 1 and 3 demonstrate that scraped social media images are a primary fraud signal, with 100% of critical risk vendors relying entirely on social media sourced images. Proactive denial based on image source will immediately neutralize this vunerabilty.
+Deploy automated  reverse-image screening solutions to identify duplicated or externally sourced content during the vendor application process. Findings 1 and 3 demonstrate that scraped social media images are a primary fraud signal, with 100% of critical risk vendors relying entirely on social media sourced images. Proactive denial based on image source will immediately neutralize this vulnerabilty.
 
 ---
 
